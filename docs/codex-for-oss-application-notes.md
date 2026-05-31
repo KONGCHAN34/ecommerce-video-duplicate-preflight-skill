@@ -8,17 +8,12 @@ Prepared application notes for the public repository.
 - GitHub Actions: `https://github.com/KONGCHAN34/ecommerce-video-duplicate-preflight-skill/actions`
 - Open issues: `https://github.com/KONGCHAN34/ecommerce-video-duplicate-preflight-skill/issues`
 
-Still required before final submission if the form asks for them:
-
-- OpenAI Organization ID
-- ChatGPT account email
-- First and last name
+Private identity and account fields were provided by the maintainer, confirmed for transmission, and submitted through the OpenAI form. The private values are intentionally not recorded in this public repository.
 
 Current submission status:
 
-- Public repository fields are filled in the OpenAI form draft.
-- The form has not been submitted.
-- Do not submit until the private identity/account fields above are provided and explicitly approved for transmission to OpenAI.
+- Submitted on 2026-05-31 through the OpenAI Codex for Open Source form.
+- Confirmation page displayed: "感谢你提交信息！我们将审核申请内容，如果你入选，我们会与你联系。感谢关注。"
 - Do not claim external adoption or user feedback until public or user-provided evidence exists.
 
 ## Current Fit Assessment
@@ -72,9 +67,9 @@ The project is local-first and read-only by default. It does not claim platform 
 - [x] Real dogfood notes are recorded without private media.
 - [ ] External feedback is collected only if it actually exists.
 - [x] Application copy is updated with final repo URL.
-- [x] Public application fields are filled in the OpenAI form draft.
-- [ ] Private identity/account fields are provided and confirmed before submission.
-- [ ] Application form is submitted.
+- [x] Public application fields are submitted in the OpenAI form.
+- [x] Private identity/account fields are provided and confirmed before submission.
+- [x] Application form is submitted.
 
 ## Public Evidence
 
