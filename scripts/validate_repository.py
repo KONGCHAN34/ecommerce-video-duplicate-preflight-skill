@@ -13,6 +13,7 @@ SKILL = ROOT / ".agents/skills/ecommerce-video-preflight/SKILL.md"
 
 REQUIRED_FILES = [
     "README.md",
+    "PROGRESS.md",
     "LICENSE",
     "CHANGELOG.md",
     "CONTRIBUTING.md",
