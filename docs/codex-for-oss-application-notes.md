@@ -34,6 +34,14 @@ Limit: 500 characters.
 I will use API credits to dogfood and improve Codex-powered media QA workflows: scanner design review, report quality review, example generation, issue triage, release-note drafting, and safe detection features such as frame-hash workflow planning. Outputs will directly improve this open-source Skill and its documentation.
 ```
 
+## Codex Security Rationale
+
+Limit: 500 characters.
+
+```text
+Codex Security would help review local media-processing code as the Skill adds richer video scanning. The main risk areas are safe file handling, dependency usage, report generation, and future ffmpeg or frame-hash integrations. I want the project to stay local-first, auditable, and safe without touching private media or publishing accounts.
+```
+
 ## Anything Else We Should Know
 
 Limit: 500 characters.
@@ -57,6 +65,8 @@ The project is local-first and read-only by default. It does not claim platform 
 - [x] Real dogfood notes are recorded without private media.
 - [ ] External feedback is collected only if it actually exists.
 - [x] Application copy is updated with final repo URL.
+- [x] Public application fields are filled in the OpenAI form draft.
+- [ ] Private identity/account fields are provided and confirmed before submission.
 
 ## Public Evidence
 
