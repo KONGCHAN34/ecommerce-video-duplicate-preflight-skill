@@ -14,6 +14,13 @@ Still required before final submission if the form asks for them:
 - ChatGPT account email
 - First and last name
 
+Current submission status:
+
+- Public repository fields are filled in the OpenAI form draft.
+- The form has not been submitted.
+- Do not submit until the private identity/account fields above are provided and explicitly approved for transmission to OpenAI.
+- Do not claim external adoption or user feedback until public or user-provided evidence exists.
+
 ## Current Fit Assessment
 
 The Codex for Open Source program focuses on maintainers of active open-source projects with meaningful usage, broad adoption, ecosystem importance, or clear active maintenance evidence. This repository can demonstrate primary maintenance of a public Codex Skill project, but it should not claim broad adoption, usage, downloads, or ecosystem importance until those facts exist.
@@ -67,6 +74,7 @@ The project is local-first and read-only by default. It does not claim platform 
 - [x] Application copy is updated with final repo URL.
 - [x] Public application fields are filled in the OpenAI form draft.
 - [ ] Private identity/account fields are provided and confirmed before submission.
+- [ ] Application form is submitted.
 
 ## Public Evidence
 
